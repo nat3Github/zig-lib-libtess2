@@ -1,5 +1,0 @@
-# .gitignore
-zig-out
-.git
-.notebook
-.zig-cache
