@@ -1,0 +1,16 @@
+.{
+    .name = .libtess,
+    .version = "0.0.0",
+    .minimum_zig_version = "0.14.0",
+    .dependencies = .{},
+    .fingerprint = 0x7a2cb7e3900c1802,
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "Source",
+        "Include",
+        "src",
+        "LICENSE.txt",
+        "README.md",
+    },
+}
