@@ -31,3 +31,12 @@ Build/*
 /bazel-*
 MODULE.bazel.lock
 
+
+# .gitignore
+zig-out
+.git
+.notebook
+.zig-cache
+.direnv
+
+
